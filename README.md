@@ -19,4 +19,4 @@ I am Karolina. Ambitious frontend developer. Professional bug creator. <b>Proud 
 
 <hr>
 
-Check out my <a href="https://karolinasech.vercel.app/">Personal portfolio></a>
+Check out my <a href="https://karolinasech.vercel.app/">Personal portfolio</a>
