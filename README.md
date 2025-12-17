@@ -1,20 +1,20 @@
 ## Hi there 👋
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/skarolinax/count.svg" alt="Visitor's Count" />
-</div>
+I am Karolina. Ambitious frontend developer. Professional bug creator. <b>Proud woman in tech</b>.
 
-<!--
-**skarolinax/skarolinax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ICT student at Fontys University
 
-Here are some ideas to get you started:
+💻 Aspiring Frontend Developer (React • UI/UX)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤎 Passionate about design, accessibility & human‑centered apps
+
+👩‍🚀 Strong believer that women belong in tech — loudly & confidently
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,react,js,git,figma" />
+</p>
+
+<hr>
