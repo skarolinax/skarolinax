@@ -7,7 +7,7 @@ I am Karolina. Ambitious frontend developer. Professional bug creator. <b>Proud 
 
 🤎 Passionate about design, accessibility & human‑centered apps
 
-👩‍🚀 Strong believer that women belong in tech — loudly & confidently
+👩‍🚀 Strong believer that women belong in tech - loudly & confidently
 
 ## 🛠️ Languages and Tools
 
