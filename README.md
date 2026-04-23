@@ -14,7 +14,7 @@ I am Karolina. Ambitious frontend developer. Professional bug creator. <b>Proud 
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,react,js,git,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,react,js,git,figma,firebase," />
 </p>
 
 <hr>
