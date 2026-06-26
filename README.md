@@ -5,7 +5,7 @@ I am Karolina. Ambitious frontend developer. Professional bug creator. <b>Proud 
 
 💻 Aspiring Frontend Developer (React • UI/UX)
 
-🤎 Passionate about design, accessibility & human‑centered apps
+🤎 Passionate about SEO, accessibility & human‑centered apps
 
 👩‍🚀 Strong believer that women belong in tech - loudly & confidently
 
